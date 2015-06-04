@@ -35,4 +35,4 @@ cp $RawDatDir/Fproliferatum_S1_L001_R1_001.fastq.gz $ProjectDir/raw_dna/paired/F
 Run the assembly pipe for velvet for the strains that require assemblies
 
 ###Pisi PG18
-qsub ~/git_master/seq_tools/assemblers/velvet/assembly_pipe.sh ./raw_dna/paired/F.oxysporum_fsp_pisi/PG18/F/FoxysporumPG18_S4_L001_R1_001.fastq.gz ./raw_dna/paired/F.oxysporum_fsp_pisi/PG18/R/FoxysporumPG18_S4_L001_R2_001.fastq.gz 54 700
+qsub ~/git_master/seq_tools/assemblers/velvet/assembly_pipe.sh ./raw_dna/paired/F.oxysporum_fsp_pisi/PG18/F/FoxysporumPG18_S4_L001_R1_001.fastq.gz ./raw_dna/paired/F.oxysporum_fsp_pisi/PG18/R/FoxysporumPG18_S4_L001_R2_001.fastq.gz 45 700 ~/git_master/seq_tools/assemblers/velvet/
