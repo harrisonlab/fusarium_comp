@@ -37,11 +37,11 @@ Run the assembly pipe for velvet for the strains that require assemblies
 
 
 ###Pisi PG18
-```qsub ~/git_master/seq_tools/assemblers/velvet/assembly_pipe.sh /home/groups/harrisonlab/projects/fusarium_comp/raw_dna/paired/F.oxysporum_fsp_pisi/PG18/F/FoxysporumPG18_S4_L001_R1_001.fastq.gz /home/groups/harrisonlab/projects/fusarium_comp/raw_dna/paired/F.oxysporum_fsp_pisi/PG18/R/FoxysporumPG18_S4_L001_R2_001.fastq.gz 45 700 ~/git_master/seq_tools/assemblers/velvet/
+```qsub ~/git_master/seq_tools/assemblers/velvet/assembly_pipe.sh /raw_dna/paired/F.oxysporum_fsp_pisi/PG18/F/FoxysporumPG18_S4_L001_R1_001.fastq.gz /raw_dna/paired/F.oxysporum_fsp_pisi/PG18/R/FoxysporumPG18_S4_L001_R2_001.fastq.gz 45 700 ~/git_master/seq_tools/assemblers/velvet/
 ```
 ###Pisi PG3
-```qsub ~/git_master/seq_tools/assemblers/velvet/assembly_pipe.sh /home/groups/harrisonlab/projects/fusarium_comp/raw_dna/paired/F.oxysporum_fsp_pisi/PG3/F/FoxysporumPG3_S3_L001_R1_001.fastq.gz /home/groups/harrisonlab/projects/fusarium_comp/raw_dna/paired/F.oxysporum_fsp_pisi/PG3/R/FoxysporumPG3_S3_L001_R2_001.fastq.gz 45 700 ~/git_master/seq_tools/assemblers/velvet/
+```qsub ~/git_master/seq_tools/assemblers/velvet/assembly_pipe.sh /raw_dna/paired/F.oxysporum_fsp_pisi/PG3/F/FoxysporumPG3_S3_L001_R1_001.fastq.gz /raw_dna/paired/F.oxysporum_fsp_pisi/PG3/R/FoxysporumPG3_S3_L001_R2_001.fastq.gz 45 700 ~/git_master/seq_tools/assemblers/velvet/
 ```
 ###Narcissi N139
-```qsub ~/git_master/seq_tools/assemblers/velvet/assembly_pipe.sh /home/groups/harrisonlab/projects/fusarium_comp/raw_dna/paired/F.oxysporum_fsp_narcissi/N139/F/FoxysporumN139_S2_L001_R1_001.fastq.gz /home/groups/harrisonlab/projects/fusarium_comp/raw_dna/paired/F.oxysporum_fsp_narcissi/N139/R/FoxysporumN139_S2_L001_R2_001.fastq.gz 45 700 ~/git_master/seq_tools/assemblers/velvet/
+```qsub ~/git_master/seq_tools/assemblers/velvet/assembly_pipe.sh /raw_dna/paired/F.oxysporum_fsp_narcissi/N139/F/FoxysporumN139_S2_L001_R1_001.fastq.gz /raw_dna/paired/F.oxysporum_fsp_narcissi/N139/R/FoxysporumN139_S2_L001_R2_001.fastq.gz 45 700 ~/git_master/seq_tools/assemblers/velvet/
 ```
